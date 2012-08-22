@@ -1,0 +1,39 @@
+<table width="100%" border="1">
+  <tr align="center" valign="middle">
+    <td rowspan="3">
+      <div align="center">Наименование участка</div></td>
+    <td rowspan="3">
+      <div align="center">Длина, м</div></td>
+    <td rowspan="3">
+      <div align="center">Расход, л/c</div></td>
+    <td rowspan="3">
+      <div align="center">Диаметр, мм</div></td>
+    <td rowspan="3">
+      <div align="center">Уклон, х1000</div></td>
+    <td rowspan="3">
+      <div align="center">Скорость, м/c</div></td>
+    <td rowspan="3">
+      <div align="center">h/d, %</div></td>
+    <td colspan="6">
+      <div align="center">Отметки земли</div></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <div align="center">в начале</div></td>
+    <td colspan="3">
+      <div align="center">в конце</div></td>
+  </tr>
+  <tr>
+    <td >
+      <div align="center">земля</div></td>
+    <td>
+      <div align="center">лоток</div></td>
+    <td>
+      <div align="center">шелыга</div></td>
+    <td>
+      <div align="center">земля</div></td>
+    <td>
+      <div align="center">лоток</div></td>
+    <td>
+      <div align="center">шелыга</div></td>
+  </tr>
